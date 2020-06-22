@@ -1,0 +1,2 @@
+java -jar Building_Secure_App.jar bar.keystore barFrimet bar barfrimet aliceCrt plaintext.txt e
+java -jar Building_Secure_App.jar alice.keystore aliceBob alice alicebobo barCrt ciphertext.txt d
